@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Multi-device presentation"
+    id="id-44248a0101474ffc9d4fa4ff565ea242"
+    documentation="Multi-Device Presentation is a digital capability used to reuse a single computer program for multiple devices. It is commonly known as ‘onesource multi-use’ for Presentation Layer of IT architecture. The digital&#xD;&#xA;capability should handle different computing languages, different platforms and communication protocols that different devices use, different sizes, layouts and content suitable for different devices, and so on.&#xD;&#xA;&#xD;&#xA;As digital devices proliferate, the ability to reuse existing applications while successfully meeting different demands from digital users becomes a critical factor to sustainable digital operations. It is the case when it comes to Presentation Logic of applications for digital devices."/>

@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data quality management"
+    id="id-e0b0bdb06ea4425db8b54d4bacb2304e"
+    documentation="Data Quality Management is a digital capability used to ensure that data is complete, correct, accurate and relevant throughout its lifecycle. It involves profiling data, establishing quality metrics and targets, designing quality rules, implementing data quality processes and IT system, reviewing exceptions, monitoring quality and cleansing data.&#xD;&#xA;&#xD;&#xA;Data Quality Management has been a discipline commonly applied to structured data within organizations, but quality-management initiatives for un-structured data are far less common. The effect of poor quality unstructured or semi-structured data can however also be profound. Poor data quality is one of the leading causes of failure or underperformance in Digital Intelligence capabilities.&#xD;&#xA;"/>

@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enterprise search"
+    id="id-27d898a468074b3f9236d867131e5020"
+    documentation="Enterprise Search is a digital capability to enable users to locate the content or information they want quickly and accurately, through keyword search into a variety of sources, such as file system, intranet, content repository, email, database, data warehouse and/or data lake. &#xD;&#xA;&#xD;&#xA;Before the contemporary digital area, the Enterprise Search capability was focused on searching through structured data stored in relational databases. Now the challenge is to search a massive amount of data with little-to-no structure; mostly textual information without any pre-defined format or layout."/>

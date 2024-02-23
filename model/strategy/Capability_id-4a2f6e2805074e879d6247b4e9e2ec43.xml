@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Process integration services"
+    id="id-4a2f6e2805074e879d6247b4e9e2ec43"
+    documentation="Process Integration Services is a digital capability used to enable digital  business processes to integrate seamlessly with one another by integrating applications with one another across on-premises and the Cloud. The digital capability includes application connectivity, synchronous or asynchronous messaging, data transformation &amp; formatting, workflow automation and process orchestration. &#xD;&#xA;&#xD;&#xA;In the digital age, many applications should collaborate with one another in order to fully automate end-to-end business processes, regardless of whether they are deployed on-premises or in the Cloud, and whether inside or outside the organization. It is therefore necessary to create appropriate interfaces between the different deployment environments, and these should be different from the traditional integration architecture of the pre-digital era.&#xD;&#xA;&#xD;&#xA;"/>

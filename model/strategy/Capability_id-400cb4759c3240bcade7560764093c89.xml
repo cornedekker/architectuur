@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer insights"
+    id="id-400cb4759c3240bcade7560764093c89"
+    documentation="Customer Insights is a digital capability used to analyse and understand customer behaviours and intentions behind the behaviours to help acquire, develop and retain customers. Whereas the Product Similarity Analytics capability focuses on products, the Customer Insight capability focuses more on customers than on products.&#xD;&#xA;&#xD;&#xA;This digital capability requires an ability to capture and maintain enterprisewide customer data regularly to drive insights into the Voice of the Customer (VoC). It may model customer tendencies, predict frequency and time lapse of purchasing items and other behaviours, and measure the lifetime value of a customer.&#xD;&#xA;"/>

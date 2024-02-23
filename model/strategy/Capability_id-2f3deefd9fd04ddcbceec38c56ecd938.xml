@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Shopping cart &amp; checkout"
+    id="id-2f3deefd9fd04ddcbceec38c56ecd938"
+    documentation="Shopping Cart &amp; Checkout is a digital capability used to collect product or service items for purchase in a shopping cart, and calculate a total for the order.&#xD;&#xA;Shopping Cart &amp; Checkout include the following functionalities:&#xD;&#xA;- Calculation of total amount of discount from multiple sources, including coupons and discount promotions.&#xD;&#xA;- Calculation of packing and shipping charges and associated taxes.&#xD;&#xA;- Integration with a loyalty program.&#xD;&#xA;- Integration with Payment &amp; Reconciliation capability.&#xD;&#xA;- Invoice management.&#xD;&#xA;- Express checkout."/>

@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="On-demand provisioning services"
+    id="id-79a06676f72348ef90ec667eca3dcdbc"
+    documentation="On-Demand Provisioning Services is a digital capability to scale up and down or scale in and out  automatically when required, so that IT administrators or the IT system itself can dynamically provision or deprovision application and infrastructure resources as requested or required.&#xD;&#xA;&#xD;&#xA;In the digital environment, computational workload and computing resource usage are getting less predictable than ever before. Resource capacity and availability management should be prepared for an unpredictable surge in demand.&#xD;&#xA;"/>

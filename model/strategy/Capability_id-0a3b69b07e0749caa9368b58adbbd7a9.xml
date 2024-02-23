@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Email marketing"
+    id="id-0a3b69b07e0749caa9368b58adbbd7a9"
+    documentation="Email Marketing is a digital capability used to create, send and monitor emails with marketing messages for promoting brands, products and services.&#xD;&#xA;Before the contemporary digital era, Email Marketing was established and performed standalone without integrating to other marketing capability. This was the online version of direct mail marketing.&#xD;&#xA;In the digital age, Email Marketing has become an integral part of the entire digital marketing capabilities, providing underlying capability to deliver marketing messages through email for other digital capabilities. The Campaign Management capability can for example use the Marketing Automation capability to ask the Email Marketing capability to send an email containing an offer from Marketing Offer Management to a customer as part of the campaign communication."/>

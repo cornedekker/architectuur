@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Non-relational database management"
+    id="id-bcab3b9be6604e9789ce5605fb2d0507"
+    documentation="Non-relational Data Management is a digital capability used to store and retrieve a massive amount of un-structured and semi-structured data coming from many sources, such as social listening, web logs, interactions on digital touchpoints and even digital sensor activities.&#xD;&#xA;&#xD;&#xA;This digital capability gives database design simplicity, easy scaling, and high performance and availability compared to relational data management when dealing with a massive amount of un-structured and semi-structured data."/>

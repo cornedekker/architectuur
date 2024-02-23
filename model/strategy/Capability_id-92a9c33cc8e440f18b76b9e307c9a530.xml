@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product similarity analytics"
+    id="id-92a9c33cc8e440f18b76b9e307c9a530"
+    documentation="Product Similarity Analytics is a digital capability used to analyse similarity among products in terms of which products and services are viewed, moved into carts, or purchased either ‘together’ or ‘in a row’.&#xD;&#xA;The product similarity analysis can be performed in two ways:&#xD;&#xA;- Association analysis&#xD;&#xA;- Item-based collaborative filtering&#xD;&#xA;"/>
